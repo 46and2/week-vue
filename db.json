@@ -1,0 +1,10 @@
+{
+  "events": [
+    { "title": "Заголовок 1", "startDate": 1588586400, "endDate": 1588600800 },
+    { "title": "Заголовок 2", "startDate": 1588662000, "endDate": 1588672800 },
+    { "title": "Заголовок 3", "startDate": 1588734000, "endDate": 1588736700 },
+    { "title": "Заголовок 4", "startDate": 1588741200, "endDate": 1588744800 },
+    { "title": "Заголовок 5", "startDate": 1588860000, "endDate": 1588869000 },
+    { "title": "Заголовок 6", "startDate": 1588912200, "endDate": 1588922100 }
+  ]
+}
