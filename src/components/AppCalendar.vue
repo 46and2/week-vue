@@ -40,7 +40,7 @@ export default {
   },
   created() {
     axios
-      .get('my-json-server.typicode.com/46and2/week-vue/events')
+      .get('https://my-json-server.typicode.com/46and2/week-vue/events')
       .then(res => {
         let data = res.data;
         data &&
